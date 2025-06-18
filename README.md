@@ -73,7 +73,7 @@ This project demonstrates a momentum-based investment strategy applied across th
 **Kavin Kumaar**  
 Graduate Student – MS in Business Analytics & Project Management  
 University of Connecticut  
-[LinkedIn](https://www.linkedin.com/in/rtkavinkumaar22/) | [Portfolio]([https://your-portfolio-link.com](https://github.com/KavinKumaar11)) | [Email](mailto:rtkavinkumaar112219@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rtkavinkumaar22/) | [Portfolio](https://github.com/KavinKumaar11) | [Email](mailto:rtkavinkumaar112219@gmail.com)
 
 ---
 
